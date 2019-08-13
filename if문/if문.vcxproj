@@ -19,11 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{88E74799-9395-41C3-92F2-4A60D6A7BB34}</ProjectGuid>
+    <ProjectGuid>{2A6BBC89-9AAA-4635-A141-939078BDC404}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My2557</RootNamespace>
+    <RootNamespace>if문</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>입출력과사칙연산</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -147,9 +146,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="10171.cpp" />
-    <ClCompile Include="10718.cpp" />
-    <ClCompile Include="2557.cpp" />
+    <ClCompile Include="10817.cpp" />
+    <ClCompile Include="1330.cpp" />
+    <ClCompile Include="2753.cpp" />
+    <ClCompile Include="2884.cpp" />
+    <ClCompile Include="9498.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
